@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.dce6718c.css",
+    "main.js": "/my-portfolio/static/js/main.d19a65b0.js",
+    "static/media/NayebTowki_cybersecurity.pdf": "/my-portfolio/static/media/NayebTowki_cybersecurity.e21b9e68ba6b454a156b.pdf",
+    "static/media/cybersecurity.png": "/my-portfolio/static/media/cybersecurity.6e2d400d3410fead9e3f.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.df3f373c358bcfdd92bb.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.dce6718c.css.map": "/my-portfolio/static/css/main.dce6718c.css.map",
+    "main.d19a65b0.js.map": "/my-portfolio/static/js/main.d19a65b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dce6718c.css",
+    "static/js/main.d19a65b0.js"
+  ]
+}
