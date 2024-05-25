@@ -5,6 +5,9 @@
     margin: 0 auto;
     overflow: hidden;
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .introContent {
@@ -14,7 +17,7 @@
     font-size: 3rem; /* Adjust as needed */
     font-weight: 700;
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     justify-content: center;
 }
 
